@@ -4,5 +4,5 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 Werkzeug==0.15.5
 Pillow>=5.4.0
-tensorflow==2.0.0
+tensorflow==2.0.1
 numpy==1.17.2
